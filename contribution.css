@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+h1{
+    color: wheat;
+    text-align: center;
+    padding: 5px;
+    font-size: 100px;
+}
+
+.amount{
+    color: whitesmoke;
+    font-size: 80px;
+    text-align: center;
+}
+
+.amount:hover{
+
+    color: firebrick;
+}
