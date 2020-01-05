@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+h4{
+    color: whitesmoke;
+    font-size: 80px;
+    text-align: center;
+}
+
+h4:hover {
+    color:firebrick;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.text_msg{
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: justify;
+}
+
+.text_msg:hover{
+    color: firebrick;
+}
+
+.left_image{
+    height: 0px;
+    
+}
