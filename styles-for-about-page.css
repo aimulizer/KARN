@@ -1,3 +1,44 @@
+body{
+    background-color: black;
+    margin: opx;
+}
+
+h6{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 80px;
+    padding: 0cm;
+    margin-bottom: 30px;
+   
+}
+
+h6:hover{
+    transition: color 0.5s;
+    color: firebrick;
+}
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.txt{
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.txt:hover{
+    color: firebrick;
+    transition: color 0.5s;
+}
+
 h1{
-    color: azure;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 2cm;
+}
+
+h1:hover{
+    transition: color 1s;
+    color: firebrick;
 }
