@@ -41,6 +41,10 @@ h3{
     color: beige;
 }
 
+.nav a:hover{
+    color: firebrick;
+}
+
 .msg{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;    

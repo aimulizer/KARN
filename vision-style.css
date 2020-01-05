@@ -1,7 +1,9 @@
 body{
-    background-color: black;
+   background-color: black;
+
 }
 h4{
+    transition: color 0.5s;
     color: whitesmoke;
     font-size: 80px;
     text-align: center;
@@ -13,10 +15,11 @@ h4:hover {
 
 .content{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .text_msg{
+    transition: color 0.5s;
     font-size: 20px;
     color: whitesmoke;
     text-align: justify;
@@ -24,9 +27,4 @@ h4:hover {
 
 .text_msg:hover{
     color: firebrick;
-}
-
-.left_image{
-    height: 0px;
-    
 }

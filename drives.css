@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h5{
+    transition: color 0.5s;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 80px;
+}
+
+h5:hover{
+    color: firebrick;
+}
+
+.drive-info{
+    transition: color 0.5s;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+
+.drive-info:hover{
+    color: firebrick;
+}

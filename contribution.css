@@ -2,6 +2,7 @@ body{
     background-color: black;
 }
 h1{
+    transition: color 0.5s;
     color: wheat;
     text-align: center;
     padding: 5px;
@@ -9,6 +10,8 @@ h1{
 }
 
 .amount{
+    transition: color 1s;
+    transition: c;
     color: whitesmoke;
     font-size: 80px;
     text-align: center;
