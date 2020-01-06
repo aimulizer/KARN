@@ -12,7 +12,7 @@ h1{
 .amount{
     transition: color 1s;
     transition: c;
-    color: whitesmoke;
+    color: wheat;
     font-size: 80px;
     text-align: center;
 }
@@ -24,4 +24,15 @@ h1{
 
 h1:hover{
     color:  firebrick ;
+}
+
+.to_contribute{
+    color: wheat;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.to_contribute:hover {
+    color: firebrick;
+    transition: color 0.5s;
 }
