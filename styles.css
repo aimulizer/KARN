@@ -76,12 +76,12 @@ h3:hover{
     padding: 5px
 }
 
-.msg > .left_text{
+.msg>.middle_text{
     transition: color 0.5s;
     text-align: justify;
     color:  whitesmoke;
 }
 
-.left_text:hover{
+.middle_text:hover{
     color: firebrick;
 }
